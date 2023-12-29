@@ -1,13 +1,14 @@
 # Power BI Zomato Dashboard for Pub
 
-Created Powerbi dashboard for Pub
+Created Interactive Powerbi dashboard for Pub
+
 ## Project Objective
 
 The objective is to develop an interactive Power BI dashboard that allows the pub owner to monitor and analyze online sales data from Zomato. The dashboard will provide insights into sales performance, customer trends, and other relevant metrics.
 
 ## Dataset used
-Transactions 
-Cusomers
+1. Transactions
+2. Cusomers 
 
 ## KPIs
 1. Total Transactions per month
