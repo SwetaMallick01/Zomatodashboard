@@ -30,8 +30,8 @@ Created connections, join new tables, and calculations to manipulate data and en
 Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc).
 
 ## DASHBOARD
+<img width="660" alt="Screenshot 2023-12-29 150732" src="https://github.com/SwetaMallick01/Zomatodashboard/assets/132562651/b357db76-39fd-426a-8f32-39aaad4b2e08">
 
-<img width="754" alt="Screenshot 2023-12-29 144127" src="https://github.com/SwetaMallick01/Zomatodashboard/assets/132562651/c34a4a8f-5ba4-42b7-9148-3e08bbaa9924">
 
 ## Project Insight
 1. Around 209 customers were given zero ratings, 104 were given 5 Ratings.
